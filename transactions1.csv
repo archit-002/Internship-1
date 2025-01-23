@@ -1,0 +1,3 @@
+transactionId,loyaltyTransactionId,assignedToCustomerDate,transactionType,transactionPlace,customerId,posId,transactionValue,storeCode,matched,unitsDeducted,pointsEarned,channelId,transactionDate
+TX59744,LT96927,08-02-2024 17:17,Refund,Physical Store,CUST471,POS483,173.77,STORE45,0,67,37,APP,08-02-2024 17:17
+TX69004,LT27656,28-08-2024 13:51,Refund,Physical Store,CUST236,POS891,282.89,STORE37,1,93,11,WEB,28-08-2024 13:51
